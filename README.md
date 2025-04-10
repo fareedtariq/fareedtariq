@@ -1,87 +1,100 @@
 <h1 align="center">Hi 👋, I'm Fareed Tariq</h1>
-<h3 align="center">A passionate Mobile App developer with Flutter and React Native from Pakistan</h3>
+<h3 align="center">Mobile & Web App Developer | Flutter, React Native, React.js, Node.js</h3>
 
-<p align="left"> 
-  <img src="https://komarev.com/ghpvc/?username=fareedtariq&label=Profile%20views&color=0e75b6&style=flat" alt="fareedtariq" /> 
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=fareedtariq&label=Profile%20views&color=0e75b6&style=flat" alt="fareedtariq" />
 </p>
 
-<p align="left"> 
-  <a href="https://github.com/ryo-ma/github-profile-trophy">
-    <img src="https://github-profile-trophy.vercel.app/?username=fareedtariq" alt="fareedtariq" />
-  </a> 
-</p>
+---
 
-<p align="left"> 
-  <a href="https://twitter.com/fareedtariq16" target="blank">
-    <img src="https://img.shields.io/twitter/follow/fareedtariq16?logo=twitter&style=for-the-badge" alt="fareedtariq16" />
-  </a> 
-</p>
+### 👨‍💻 About Me
 
-- 🌱 I’m currently learning **React, Django, Node.js**
+I'm a passionate and creative developer specializing in **cross-platform mobile** and **modern web app development**. I love solving real-world problems with elegant, scalable, and user-friendly solutions.
 
-- 📫 How to reach me **fareedtariq119@gmail.com**
+- 🔭 I’m currently working on **cross-platform mobile apps** using **Flutter** and **React Native**.
+- 🌱 Currently learning: **Next.js, TypeScript, and DevOps fundamentals**
+- ⚡ Fun fact: I design UIs like an artist 🎨 and structure code like an engineer ⚙️
 
-<h3 align="left">Connect with me:</h3>
+---
+
+### 📫 Let's Connect
+
 <p align="left">
-  <a href="https://twitter.com/fareedtariq16" target="blank">
-    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="fareedtariq16" height="30" width="40" />
-  </a>
+  <a href="mailto:fareedtariq119@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
+  <a href="https://twitter.com/fareedtariq16"><img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white"/></a>
+  <a href="https://www.linkedin.com/in/fareedtariq"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
+  <a href="https://www.instagram.com/fareedtariq.dev/"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/></a>
+  <a href="https://www.facebook.com/fareedtariq.dev/"><img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white"/></a>
+  <a href="https://github.com/fareedtariq"><img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white"/></a>
 </p>
 
-<h3 align="left">Languages and Tools:</h3>
+---
+
+### 🧰 Tech Stack & Tools
+
+#### 💻 Languages
+![Dart](https://img.shields.io/badge/Dart-0175C2?style=flat&logo=dart&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
+![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=flat&logo=typescript&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
+
+#### 📱 Mobile
+![Flutter](https://img.shields.io/badge/Flutter-02569B?style=flat&logo=flutter&logoColor=white)
+![React Native](https://img.shields.io/badge/React_Native-20232A?style=flat&logo=react&logoColor=61DAFB)
+
+#### 🌐 Web
+![React.js](https://img.shields.io/badge/React-20232A?style=flat&logo=react&logoColor=61DAFB)
+![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat&logo=nextdotjs&logoColor=white)
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat&logo=nodedotjs&logoColor=white)
+![Express](https://img.shields.io/badge/Express.js-000000?style=flat&logo=express&logoColor=white)
+
+#### 🗃️ Database
+![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=flat&logo=firebase&logoColor=black)
+![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat&logo=mongodb&logoColor=white)
+![SQLite](https://img.shields.io/badge/SQLite-003B57?style=flat&logo=sqlite&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-005C84?style=flat&logo=mysql&logoColor=white)
+
+#### ⚒️ Tools
+![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=flat&logo=visual-studio-code&logoColor=white)
+![Postman](https://img.shields.io/badge/Postman-FF6C37?style=flat&logo=postman&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat&logo=linux&logoColor=black)
+
+---
+
+### 📈 GitHub Stats
+
 <p align="left">
-  <a href="https://dart.dev" target="_blank" rel="noreferrer">
-    <img src="https://www.vectorlogo.zone/logos/dartlang/dartlang-icon.svg" alt="dart" width="40" height="40"/>
-  </a>
-  <a href="https://www.djangoproject.com/" target="_blank" rel="noreferrer">
-    <img src="https://cdn.worldvectorlogo.com/logos/django.svg" alt="django" width="40" height="40"/>
-  </a>
-  <a href="https://firebase.google.com/" target="_blank" rel="noreferrer">
-    <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="40" height="40"/>
-  </a>
-  <a href="https://flutter.dev" target="_blank" rel="noreferrer">
-    <img src="https://www.vectorlogo.zone/logos/flutterio/flutterio-icon.svg" alt="flutter" width="40" height="40"/>
-  </a>
-  <a href="https://git-scm.com/" target="_blank" rel="noreferrer">
-    <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/>
-  </a>
-  <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/>
-  </a>
-  <a href="https://www.linux.org/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/>
-  </a>
-  <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/>
-  </a>
-  <a href="https://www.microsoft.com/en-us/sql-server" target="_blank" rel="noreferrer">
-    <img src="https://www.svgrepo.com/show/303229/microsoft-sql-server-logo.svg" alt="mssql" width="40" height="40"/>
-  </a>
-  <a href="https://www.mysql.com/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/>
-  </a>
-  <a href="https://postman.com" target="_blank" rel="noreferrer">
-    <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/>
-  </a>
-  <a href="https://www.python.org" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/>
-  </a>
-  <a href="https://reactjs.org/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/>
-  </a>
-  <a href="https://reactnative.dev/" target="_blank" rel="noreferrer">
-    <img src="https://reactnative.dev/img/header_logo.svg" alt="reactnative" width="40" height="40"/>
-  </a>
-  <a href="https://www.sqlite.org/" target="_blank" rel="noreferrer">
-    <img src="https://www.vectorlogo.zone/logos/sqlite/sqlite-icon.svg" alt="sqlite" width="40" height="40"/>
-  </a>
-  <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40"/>
-  </a>
+  <img src="https://github-readme-stats.vercel.app/api?username=fareedtariq&show_icons=true&theme=react" alt="GitHub Stats" height="170" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=fareedtariq&layout=compact&theme=react" alt="Top Languages" height="170"/>
 </p>
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=fareedtariq&show_icons=true&locale=en&layout=compact" alt="fareedtariq" /></p>
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=fareedtariq&theme=react" alt="Streak Stats"/>
+</p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=fareedtariq&show_icons=true&locale=en" alt="fareedtariq" /></p>
+---
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=fareedtariq" alt="fareedtariq" /></p>
+### 🧠 In-Demand Skills I'm Learning
+
+- 🔷 Clean architecture in Flutter
+- 🔷 CI/CD using GitHub Actions and Codemagic
+- 🔷 Advanced animations and transitions
+- 🔷 Building APIs with Node.js and Express
+- 🔷 UI/UX design principles
+- 🔷 Firebase Authentication & Firestore
+- 🔷 Full-stack apps using Next.js + MongoDB
+- 🔷 App deployment on Google Play & App Store
+
+---
+
+### 🌟 My Goals
+
+- 🚀 Publish at least **3 apps** on Play Store in 2025
+- 💼 Work on **freelance & open-source mobile projects**
+- 👨‍🏫 Mentor juniors in **Flutter** and **React Native**
+- 🧩 Collaborate with devs on **innovative apps**
+
+---
+
+_Thanks for visiting my profile! Drop a ⭐ on any repo you like or let's collaborate on something cool!_
